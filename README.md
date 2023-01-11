@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prathap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Prathap--01629954/)](https://www.linkedin.com/in/prathap--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Prathap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Prathap--01629954/)](https://www.linkedin.com/in/prathap-nayak-h-s-912154229/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Prathap-green)](https://www.prathap)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Prathap-yellow)](https://stackoverflow.com/users/3687251/prathap-)
+
 
 I'm
 Frontend developer,
@@ -26,7 +26,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+        <img src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png" alt="cplusplus" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
